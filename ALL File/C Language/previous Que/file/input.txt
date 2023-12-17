@@ -1,0 +1,15 @@
+Shakib Al Hasan
+C163456
+shakib@gmail.com
+5
+3.90 4.00 3.50 4.00 3.95 0.00 0.00 0.00
+Abdul Karim
+C200044
+abc@yahoo.com
+1
+4.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+Ammar Bin Yasar
+C200022
+c122222@iiuc.ac.bd
+1
+3.99 0.00 0.00 0.00 0.00 0.00 0.00 0.00
